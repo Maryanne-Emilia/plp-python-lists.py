@@ -1,0 +1,11 @@
+my_list=[]
+my_list2=my_list.append(10)
+my_list3=my_list.append(20)
+my_list4=my_list.append(30)
+my_list5=my_list.append(40)
+my_list6=my_list.insert(1,15)
+my_list7=my_list.extend([50,60,70])
+my_list8=my_list.pop()
+my_list9=my_list.sort()
+my_list10=my_list[3]
+print(my_list10)
